@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Jehoon+Park+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Seoyoon+Jessica+Ham%F0%9F%91%8B" />
 </p>
 
 **Economics & Computer Science** student @ **New York University (NYU)**  
