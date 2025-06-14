@@ -20,6 +20,6 @@ Aspiring to become a **Data Engineering–savvy Auditor** in the future
 - **Email**: sh6582@nyu.edu  
 - **LinkedIn**: [Seoyoon Jessica Ham](https://www.linkedin.com/in/seoyoon-jessica-ham0101/)
 
-—--
+---
 
 > 💬 “Auditing with a data-driven mindset — where compliance meets code.”
