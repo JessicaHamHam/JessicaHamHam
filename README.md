@@ -2,24 +2,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=1000&color=00FFB2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Seoyoon+Jessica+Ham%F0%9F%91%8B" />
 </p>
 
-**Economics & Computer Science** student @ **New York University (NYU)**  
-Currently working as an **IT Compliance Intern (Auditor)**  
-Proficient in **SQL**, **Excel**, and passionate about bridging **tech and audit**  
-Aspiring to become a **Data Engineering–savvy Auditor** in the future
+**Economics & Computer Science** Graduate @ **New York University (NYU)** (Class of 2026) 🎓  
+Leveraging technical expertise to optimize **Risk Management, IT Audit, and AML Compliance**.
 
 ---
 
-## Tech Stack & Tools
+## 👩‍💻 About Me
 
-- Languages: `Python`, `Java`, `SQL`, `JavaScript`
-- Tools: `VS Code`, `Jupyter`, `Git`, `Excel`
-- Libraries & Frameworks: `React`, `Redux`
+I focus on identifying data discrepancies,tracing anomalies back to their root causes, and translating them into objective explanations.Coding is the language that enables me to systematically investigate, validate, and communicate these insights.
 
-## Get in Touch
+### 💼 Professional Experience
 
-- **Email**: sh6582@nyu.edu  
+* **United Nations** — Information Analyst Intern
+* **Mavis Tire** — IT Security & Compliance Internal Audit Intern
+
+---
+
+## 🛠 Tech Stack & Tools
+
+- **Languages:** `Python`, `SQL`, `Java`, `C`
+- **Tools & Platforms:** `VS Code`, `Jupyter`, `Git`, `Excel`
+
+---
+
+## 📬 Get in Touch
+
+- **Email**: sh6582@nyu.edu | jessicahahm4451@gmail.com  
 - **LinkedIn**: [Seoyoon Jessica Ham](https://www.linkedin.com/in/seoyoon-jessica-ham0101/)
 
 ---
 
-> 💬 “Auditing with a data-driven mindset — where compliance meets code.”
+> 💬 "I don't just identify risks. I prove them with data."
